@@ -1,5 +1,5 @@
 # 💫 About Me:
--> I'm an engineering graduate <br>in E&C stream.<br>-> I'm currently persuing a certification <br>Course in EMERTXE Bangalore.
+-> I'm an engineering graduate <br>in the stream of E&C.<br>-> I'm currently persuing a certification <br>Course in EMERTXE Bangalore.
 
 
 # 💻 Tech Stack:
